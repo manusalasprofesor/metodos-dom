@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+div{
+    width: 40%;
+    height: 40vh;
+    margin: 0 auto;
+    border: 2px dotted #333;
+}
+
+.rojo{
+    border: 2px solid #ff0000;
+}
+
+.rojo2{
+    border: 8px ridge #ff0000;
+}
+
+.verde{
+    border: 10px groove #088a08;
+}
+
+.tres{
+    border: 10px inset #5858fa;
+}
